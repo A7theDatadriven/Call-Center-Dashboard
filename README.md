@@ -70,23 +70,26 @@ Avg Speed of Answering = AVERAGE('Data Table'[Speed of answer in seconds])
 ## 📊 Dashboard Pages
 
 ### 1. Home Page
-- Key metrics: Total Calls, Avg. Handling Time, Resolution %, Avg. Customer Rating.
-- Date range and filter selections.
-- Snapshot of agent performance.
+- It is made for Quick navigation to the specific Reports.
+- It shows the date range for the data is available
+- Click on the buttons for navigating through Summary Report, Agent Performance Report, Topic Wise Calls Analysis
 ![Image](https://github.com/user-attachments/assets/d999faf1-6be7-4990-8612-8d49df055ca3)
 ### 2. Summary Report
-- Weekly trend of calls, resolution rate, and ratings.
-- Aggregated topic and agent-level stats.
-- Monthly distribution of performance metrics.
+- KPI's Total Calls, Total Answered Calls, Total Agent, Avg Speed of Answering Calls, Avg Handling Time, CSAT% gives quick status of 
+  Call Center data.
+- Charts like Total Calls by Weekdays, Total Calls by Topic, Total Calls and Total Answered Calls by Agent and Total calls by Time slot 
+  provides the distribution of Total Calls.
+- Summary Insights visual provide the narratives of Summary Report.
 ![Image](https://github.com/user-attachments/assets/6bc7450e-f151-4906-816d-0805d0c58104)
 ### 3. Agent Report
-- Agent-wise performance: Total Calls, Avg. Handling Time, Resolution %, and Ratings.
-- Ranking and heatmap visuals to identify top/bottom performers.
+- Agent-wise performance based on Avg Speed of Answered Calls, Nos. of Resolved and Unresolved calls
+- Detail Report for Agents Performance provide in detail performance based on Total Calls, Total Answered Calls, Resolved Calls, 
+  Unresolved Calls, Avg. Speed
 ![Image](https://github.com/user-attachments/assets/97cddde5-2f1e-4e0b-8342-db456282dc4e)
 ### 4. Topic-Wise Calls Analysis
-- Breakdown of calls by topic (e.g., Billing, Technical Support, Product Inquiry).
+- Breakdown of calls by topic (e.g., Streaming, Technical Support, Payment Related, Admin Support, Contract Related).
 - Trend and distribution visuals to spot high-volume topics.
-- Ratings and feedback by topic.
+- Topic wise Avg Speed of Answered Calls (In Second) - Provides the time consuming topics
 ![Image](https://github.com/user-attachments/assets/c04f8b9e-58aa-4d7a-b924-03b1fc2a7c1c)
 ---
 
