@@ -7,7 +7,7 @@
 This Power BI dashboard provides a comprehensive view of the performance of a Call Centre over a 3-month period. It enables stakeholders to track key performance metrics, agent efficiency, customer satisfaction, and resolution rates. The dashboard empowers supervisors and managers to identify performance gaps, improve agent productivity, and enhance overall service quality.
 ---
 ### Data Modelling
-![Image](https://github.com/user-attachments/assets/92d758a1-39f3-41b7-9ab4-892bee318da9)
+![Image](https://github.com/user-attachments/assets/6cf0dae8-a3a2-490f-976d-8938d0e8960a)
 ---
 ###  Steps Followed
 Step 1: Loaded the dataset (Call-Center-Dataset.xlsx) into Power BI Desktop using the Excel connector.
