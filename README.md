@@ -23,10 +23,10 @@ Step 5: For calculating Average Speed of Answer and Average Handle Time, null va
 Step 6: Applied a consistent report theme from the View tab for visual appeal and uniformity.
 
 Step 7: Created an interactive home page with key KPIs such as Calls Answered, Abandoned Calls, Avg. Speed of Answer, and Avg. Talk Duration using Card visuals.
-![Image](https://github.com/user-attachments/assets/d999faf1-6be7-4990-8612-8d49df055ca3)
+![Image](https://github.com/user-attachments/assets/a4219045-9829-4f3d-9cb4-111c62b1e6db)
 
 Step 8: Added slicers to allow the user to filter the report by Call Topic, Agent Name, and Date Range for deeper insights.
-![Image](https://github.com/user-attachments/assets/915b9ac3-14d3-4626-92fb-32e49fa9da75)
+![Image](https://github.com/user-attachments/assets/5fa1a270-fc87-4d44-a3d3-c4ca043f1043)
 
 Step 9: Designed a bar chart showing Topic-wise Call Volume Analysis to identify common reasons for customer calls and optimize resource planning.
 
@@ -73,24 +73,24 @@ Avg Speed of Answering = AVERAGE('Data Table'[Speed of answer in seconds])
 - It is made for Quick navigation to the specific Reports.
 - It shows the date range for the data is available
 - Click on the buttons for navigating through Summary Report, Agent Performance Report, Topic Wise Calls Analysis
-![Image](https://github.com/user-attachments/assets/d999faf1-6be7-4990-8612-8d49df055ca3)
+![Image](https://github.com/user-attachments/assets/a4219045-9829-4f3d-9cb4-111c62b1e6db)
 ### 2. Summary Report
 - KPI's Total Calls, Total Answered Calls, Total Agent, Avg Speed of Answering Calls, Avg Handling Time, CSAT% gives quick status of 
   Call Center data.
 - Charts like Total Calls by Weekdays, Total Calls by Topic, Total Calls and Total Answered Calls by Agent and Total calls by Time slot 
   provides the distribution of Total Calls.
 - Summary Insights visual provide the narratives of Summary Report.
-![Image](https://github.com/user-attachments/assets/6bc7450e-f151-4906-816d-0805d0c58104)
+![Image](https://github.com/user-attachments/assets/72224a9c-c7f1-4aa2-9386-23d478b68417)
 ### 3. Agent Report
 - Agent-wise performance based on Avg Speed of Answered Calls, Nos. of Resolved and Unresolved calls
 - Detail Report for Agents Performance provide in detail performance based on Total Calls, Total Answered Calls, Resolved Calls, 
   Unresolved Calls, Avg. Speed
-![Image](https://github.com/user-attachments/assets/97cddde5-2f1e-4e0b-8342-db456282dc4e)
+![Image](https://github.com/user-attachments/assets/8ee8f345-26ae-4953-b76b-22b002c453b5)
 ### 4. Topic-Wise Calls Analysis
 - Breakdown of calls by topic (e.g., Streaming, Technical Support, Payment Related, Admin Support, Contract Related).
 - Trend and distribution visuals to spot high-volume topics.
 - Topic wise Avg Speed of Answered Calls (In Second) - Provides the time consuming topics
-![Image](https://github.com/user-attachments/assets/c04f8b9e-58aa-4d7a-b924-03b1fc2a7c1c)
+![Image](https://github.com/user-attachments/assets/09255a3a-99bc-4722-b086-518a44b8a974)
 ---
 
 ## ⚙️ Tools & Technologies
